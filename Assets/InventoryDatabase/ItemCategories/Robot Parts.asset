@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37a44df922c40df4fa80e23de1480e3f, type: 3}
+  m_Name: Robot Parts
+  m_EditorClassIdentifier: 
+  m_ID: 2436184335
+  m_ParentsData:
+    m_ObjectType: 'Opsive.Shared.Utility.ResizableArray`1[[Opsive.UltimateInventorySystem.Core.ItemCategory,
+      Opsive.UltimateInventorySystem, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]'
+    m_ValueHashes: 
+    m_LongValueHashes: 4c1e4f8e62aa191aedcfa32778e3fda6
+    m_ValuePositions: 0000000004000000
+    m_Values: 0000000000000000
+    m_UnityObjects: []
+    m_Version: 3.4
+  m_ChildrenData:
+    m_ObjectType: 'Opsive.Shared.Utility.ResizableArray`1[[Opsive.UltimateInventorySystem.Core.ItemCategory,
+      Opsive.UltimateInventorySystem, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]'
+    m_ValueHashes: 
+    m_LongValueHashes: 4c1e4f8e62aa191aedcfa32778e3fda6
+    m_ValuePositions: 0000000004000000
+    m_Values: 0000000000000000
+    m_UnityObjects: []
+    m_Version: 3.4
+  m_ElementsData:
+    m_ObjectType: 'Opsive.Shared.Utility.ResizableArray`1[[Opsive.UltimateInventorySystem.Core.ItemDefinition,
+      Opsive.UltimateInventorySystem, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]'
+    m_ValueHashes: 
+    m_LongValueHashes: 4c1e4f8e62aa191ac2330064f10375df07c1b5891de38a2e94c2b5891de38a2ee1ccb5891de38a2e6eceb5891de38a2e
+    m_ValuePositions: 0000000004000000080000000c0000001000000014000000
+    m_Values: 040000000400000000000000010000000200000003000000
+    m_UnityObjects:
+    - {fileID: 11400000, guid: cbf65436691fa482886b18ebe5913293, type: 2}
+    - {fileID: 11400000, guid: ca1522f0c989e4acc93d8c7a8ebd855f, type: 2}
+    - {fileID: 11400000, guid: cca1232856cd64115a8d8a4184e4c614, type: 2}
+    - {fileID: 11400000, guid: a464d8dae670a44318964191d8c23f80, type: 2}
+    m_Version: 3.4
+  m_IsAbstract: 0
+  m_Color: {r: 0.5980447, g: 0.47843808, b: 0.00043964392, a: 1}
+  m_EditorIcon: {fileID: 21300000, guid: 31dd19662ffa1468eb0fc47092c24a35, type: 3}
+  m_ItemCategoryAttributeCollection:
+    m_AttributeCollectionData: []
+  m_RequiredItemDefinitionAttributes:
+    m_AttributeCollectionData:
+    - m_ObjectType: 'Opsive.UltimateInventorySystem.Core.AttributeSystem.Attribute`1[[UnityEngine.Sprite,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]'
+      m_ValueHashes: 
+      m_LongValueHashes: 0d00eb254f8d1b295b713f72e636d894086efd392442dff734ebab2aec72d130f446621b49ba2a58a8823c4a519fa651af0255e014ce1cfaf3d4ee4cb64be1ae
+      m_ValuePositions: 0000000004000000050000000500000009000000090000000d00000011000000
+      m_Values: 49636f6e01010000006d23c144ffffffffffffffff
+      m_UnityObjects: []
+      m_Version: 3.4
+  m_RequiredItemAttributes:
+    m_AttributeCollectionData: []
+  m_IsMutable: 1
+  m_IsUnique: 1
